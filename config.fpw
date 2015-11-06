@@ -1,0 +1,14 @@
+resource=off
+Title=xBaseWebsite by Mauricio Fragoso
+mvcount=16384
+screen=off
+help=off
+sysmenu=off
+ESCAPE=ON
+optimize=ON
+view=off
+talk=off
+_TRANSPORT = ""
+_GENXTAB = ""
+_FOXREF = ""
+_CONVERT = "" 
