@@ -11,4 +11,8 @@ After 17 years is being released to the public so anyone can take advantage of i
 
 A nice programming structure is suggested to make your code more error free and reusable, feel free to explore all the features.
 
+If you are reading this is because you already know some xBase languages, and probably by now you are also familiar with html.  If that is the case, you are ready to go!
 
+You will see that programming in xBasewebiste is way more easy than PHP, ASP and other similar approaches to program for the web.
+
+All the new software that you create with this tool, will run in any device, and in any Operating System.  And Yes, multiuser by nature.
